@@ -1,7 +1,7 @@
 class Graph:
 
     def __init__(self, max_nodes):
-        self.__graph = dict(list())
+        self.__graph = dict()
         self.max_nodes = max_nodes+1
 
     def add_edge(self, snode, enode, directed=False):

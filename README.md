@@ -4,7 +4,7 @@ Collection of all Data Structures and Algorithms in various languages.
 
 # Contents
 
-Breadth First Search - [breadth_first_search.py](https://wwww.github.com/iArunava/D-Algo-Town/breadth_first_search.py)
+Breadth First Search - [breadth_first_search.py](https://github.com/iArunava/D-Algo-Town/blob/py-master/breadth_first_search.py)
 
 # Licesnse
 

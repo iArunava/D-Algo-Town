@@ -3,7 +3,6 @@ class Graph:
     def __init__(self, max_nodes):
         self._graph = dict()
         self.max_nodes = max_nodes+1
-        print ('here')
 
     def add_edge(self, snode, enode, directed=False):
         try:

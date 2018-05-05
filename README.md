@@ -10,17 +10,17 @@ Breadth First Search - [BreadthFirstSearch.py](https://github.com/iArunava/D-Alg
 
 # Workflow
 
-py-master - Stable implementations of all algorithms and Data Structures **in Python**
+**py-master**  -> Stable implementations of all algorithms and Data Structures *in Python*
 
-cpp-master - Stable implementations of all algorithms and Data Structures **in C++**
+**cpp-master** -> Stable implementations of all algorithms and Data Structures *in C++*
 
-js-master - Stable implementations of all algorithms and Data Structures **in JavaScript**
+**js-master**  -> Stable implementations of all algorithms and Data Structures *in JavaScript*
 
-py-dev - Ongoing implementations **in Python**
+**py-dev**     -> Ongoing implementations *in Python*
 
-cpp-dev - Ongoing implementations **in C++**
+**cpp-dev**    -> Ongoing implementations *in C++*
 
-js-dev - Ongoing implementations **in JavaScript**
+**js-dev**     -> Ongoing implementations *in JavaScript*
 
 # Licesnse
 

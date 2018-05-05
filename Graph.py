@@ -4,7 +4,7 @@ class Graph:
         self._graph = dict()
         self.max_nodes = max_nodes+1
 
-    def add_edge(self, snode, enode, directed=False):
+    def add_edge(self, snode, enode, cost=0, directed=False):
         try:
             self._graph[snode]
         except KeyError:
@@ -15,6 +15,6 @@ class Graph:
         except KeyError:
             self._graph[enode] = list()
 
-        self._graph[snode].append(enode)
+        self._graph[snode].append((enode, cost))
         if not directed:
-            self._graph[enode].append(snode)
+            self._graph[enode].append((snode, cost))
